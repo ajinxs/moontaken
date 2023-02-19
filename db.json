@@ -1,0 +1,46 @@
+{
+    "data":
+    [
+        {
+            "id":1,
+            "event_name":"Event Name",
+            "date":"wed 12 JAN 2022 - Fri 14 JAN 2022",
+            "location":"Import Exhibition Hall 5 Muang Thong Thani",
+            "sellingstart":"1 MAY 2022",
+            "sellingend":"15 APR 2023"
+        },
+        {
+            "id":2,
+            "totalsales":"Total Sales (THB)",
+            "total_sales":"1,000,000,000",
+            "up":"+ 11% from last week",
+            "platform_fee":"500,000",
+            "payment_fee":"300,000",
+            "net_sales":"998,400,000"
+        },
+        {
+            "id":3,
+            "total ticket sold":"Total Ticket Sold",
+            "total_ticket_sold":"3,459,780",
+            "up":"+ 25% from last week"
+        },
+        {
+            "id":4,
+            "total order":"Total Order",
+            "total_order":"1,459,780"
+        },
+        {
+            "id":5,
+            "total check in":"Total Check-In",
+            "total_check_in":"5.053,980/6,000,000"
+        },
+        {
+            "id":6,
+            "name":"Ticket Sold / Total Available"
+        },
+        {
+            "id":7,
+            "name":"Admission Check-in / Sold"
+        }
+    ]
+}
